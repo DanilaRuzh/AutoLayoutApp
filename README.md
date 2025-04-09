@@ -30,12 +30,6 @@
 
 ## Скриншоты
 
-![Alt text](AutoLayout/Screen_1.png)
-
-![Alt text](AutoLayout/Screen_2.png)
-
-![Alt text](AutoLayout/Screen_3.png)
-
 <img src="AutoLayout/Screen_1.png" alt="Screenshot 1" width="400">
 <img src="AutoLayout/Screen_2.png" alt="Screenshot 2" width="400">
 <img src="AutoLayout/Screen_3.png" alt="Screenshot 3" width="400">
