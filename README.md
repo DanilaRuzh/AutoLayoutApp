@@ -30,11 +30,11 @@
 
 ## Скриншоты
 
-![Alt text](AutoLayout/Screen_1)
+![Alt text](AutoLayout/Screen_1.png)
 
-![Alt text](AutoLayout/Screen_2)
+![Alt text](AutoLayout/Screen_2.png)
 
-![Alt text](AutoLayout/Screen_3)
+![Alt text](AutoLayout/Screen_3.png)
 
 ## Установка
 
