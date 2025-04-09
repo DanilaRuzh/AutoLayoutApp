@@ -43,6 +43,6 @@ git clone https://github.com/DanilaRuzh/AutoLayoutApp.git
 2. Откройте проект в Xcode
 3. Запустите на симуляторе или устройстве
 
-Контакты
+## Контакты
 
 Автор: DanilaRuzh GitHub: https://github.com/DanilaRuzh
