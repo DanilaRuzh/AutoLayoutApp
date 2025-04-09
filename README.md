@@ -37,11 +37,12 @@
 ## Установка
 
 1.	Склонируйте репозиторий:
-2.	
+   
 git clone https://github.com/DanilaRuzh/AutoLayoutApp.git
 
-4.	Откройте проект в Xcode
-5.	Запустите на симуляторе или устройстве
+2. Откройте проект в Xcode
+3. Запустите на симуляторе или устройстве
+
 Контакты
 
 Автор: DanilaRuzh GitHub: https://github.com/DanilaRuzh
